@@ -38,7 +38,7 @@ The objective is to find the factors which are responsible for attrition of empl
 ## Conclusion: 
 - Attrition Rate in Sales Department is 20.6% followed by **HR Department(19%)** followed by **Research & Development** department which is **13.8%.**
 
-- **Company** needs to focus on the employees who are under the age of **26-35** and also Laporatory Technician's also gave a very low job satisfaction rating so things needs to be improved there also.
+- **Company** needs to focus on the employees who are under the age of **26-35** and also **Laboratory Technician's** also gave a very low job satisfaction rating so things needs to be improved there also.
 
 - **Sales department** should be given attention because there attrition rate is very high and also job satisfaction rating is low. 
 
